@@ -4,13 +4,6 @@
 
 Android app for searching users on GitHub.
 
-![Start App](https://user-images.githubusercontent.com/21967461/81831988-9ace5f00-955b-11ea-9678-a9beb4b44ce7.png)
-![Search for users](https://user-images.githubusercontent.com/21967461/81833048-dae21180-955c-11ea-9366-b55b95fae897.png)
-![Search suggestions](https://user-images.githubusercontent.com/21967461/81833608-8e4b0600-955d-11ea-9047-07fae1449250.png)
-![Favorites list](https://user-images.githubusercontent.com/21967461/81832883-a5d5bf00-955c-11ea-8202-41f7ed8c7640.png)
-![User page](https://user-images.githubusercontent.com/21967461/81832168-d0734800-955b-11ea-9c29-245cc53cf9c1.png)
-![User page](https://user-images.githubusercontent.com/21967461/81832548-4677af00-955c-11ea-9235-cacc68e6ec19.png)
-
 Main features:
   - Search users with suggestion
   - Add to Favorite
@@ -28,6 +21,15 @@ I used:
   - [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) by Daichi Furiya for RecyclerView effects
   - [Glide](https://github.com/bumptech/glide) by Bump Technologies for performing images
   - [Glide Transformations](https://github.com/wasabeef/glide-transformations) by Daichi Furiya for Image animation
+
+![Start App](https://user-images.githubusercontent.com/21967461/81831988-9ace5f00-955b-11ea-9678-a9beb4b44ce7.png)
+![Search for users](https://user-images.githubusercontent.com/21967461/81833048-dae21180-955c-11ea-9366-b55b95fae897.png)
+![Search suggestions](https://user-images.githubusercontent.com/21967461/81833608-8e4b0600-955d-11ea-9047-07fae1449250.png)
+![Favorites list](https://user-images.githubusercontent.com/21967461/81832883-a5d5bf00-955c-11ea-8202-41f7ed8c7640.png)
+![User page](https://user-images.githubusercontent.com/21967461/81832168-d0734800-955b-11ea-9c29-245cc53cf9c1.png)
+![User page](https://user-images.githubusercontent.com/21967461/81832548-4677af00-955c-11ea-9235-cacc68e6ec19.png)
+
+
 
 ## Contribution
 You are welcome to contribute!
